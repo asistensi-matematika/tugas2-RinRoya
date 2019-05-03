@@ -1,4 +1,8 @@
-# TUGAS 2 ASISTENSI ALPRO - Jumat, 03 Mei 2019
+# TUGAS 2 ASISTENSI ALPRO - Sabtu , 04 Mei 2019
+NAMA:   
+
+NRP:    
+
 
 ## DESKRIPSI SOAL
 Buatlah suatu program dengan menggunakan GUI untuk mengaproksimasi nilai $f(x)$ dengan $n$ angka penting.
